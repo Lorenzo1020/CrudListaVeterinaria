@@ -11,13 +11,6 @@ public class Principal {
 		/* indice 1 */Mascotas mascota2 = new Mascotas("Bambi", "Chihuahua", 1, 2400);
 		/* indice 2 */Mascotas mascota3 = new Mascotas("Burbuja", "Maltes", 2, 2300);
 		
-		
-		//Se agrega este nuevo codigo
-		System.out.println("Mostrando operacion");
-		int numero1=40;
-		int operacion=numero1*340;
-		System.out.println("Resultado "+operacion);
-
 		// Declarar mi lista
 		// Que es una libreria: Es un conjunto de clases desarrollados por alguien mas
 		// para para que nuestras aplicaciones funcionen correctamente
